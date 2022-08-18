@@ -340,6 +340,11 @@
 
 }
 
+.requirements .Recommended, .minimum{
+  width: 100%;
+  padding: 0 50px;
+}
+
 .requirements .specs-heading{
   font-size: 1.2rem;
   font-weight: 600;
